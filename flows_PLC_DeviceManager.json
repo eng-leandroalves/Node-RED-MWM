@@ -44,5 +44,22 @@
         "wires": [
             []
         ]
+    },
+    {
+        "id": "cafaa6c3477b31fe",
+        "type": "function",
+        "z": "a8a2d99010b402ae",
+        "name": "function 1",
+        "func": "\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 140,
+        "y": 420,
+        "wires": [
+            []
+        ]
     }
 ]
