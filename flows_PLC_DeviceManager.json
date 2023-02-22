@@ -29,37 +29,20 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 320,
-        "y": 180,
+        "x": 180,
+        "y": 100,
         "wires": []
     },
     {
-        "id": "4531dd8b970aa8a5",
-        "type": "inject",
+        "id": "756f9d7f05085e3d",
+        "type": "status",
         "z": "a8a2d99010b402ae",
         "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 180,
-        "y": 180,
+        "scope": null,
+        "x": 200,
+        "y": 200,
         "wires": [
-            [
-                "c1167e7b59be5d4b"
-            ]
+            []
         ]
     }
 ]
